@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="second page">
+    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="hhh">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portFolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portFolio.html" afterDir="false" />
     </list>
@@ -64,7 +64,8 @@
       <workItem from="1712168763434" duration="893000" />
       <workItem from="1712250437350" duration="579000" />
       <workItem from="1712376122786" duration="67000" />
-      <workItem from="1712681930554" duration="2855000" />
+      <workItem from="1712681930554" duration="7810000" />
+      <workItem from="1712766077925" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="firstPage">
       <created>1711813880344</created>
@@ -122,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712759939739</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="second page">
+      <created>1712762827529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712762827529</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hhh">
+      <created>1712764394287</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712764394287</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +159,7 @@
     <MESSAGE value="firstPage1" />
     <MESSAGE value="firstPage" />
     <MESSAGE value="second page" />
-    <option name="LAST_COMMIT_MESSAGE" value="second page" />
+    <MESSAGE value="hhh" />
+    <option name="LAST_COMMIT_MESSAGE" value="hhh" />
   </component>
 </project>
