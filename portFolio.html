@@ -167,8 +167,43 @@
 
 
         /*page 04*/
-        #section4{}
-        #s4d1{}
+        #section4{
+            width: 1200px;
+            height: 600px;
+        }
+        #s4d1{
+            width: 200px;
+            height: 75px;
+            margin-top: 15%;
+            margin-left: 43%;
+
+            background-image: url("Asserts/projects.png");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        #section4{
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+
+        }
+        #section4>div{
+            width: 215px;
+            height: 150px;
+            border: 2px;
+            margin: 15px auto;
+
+            background-image: url("Asserts/proj.png");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        @media all and (max-width: 650px) {
+            #section4{
+                grid-template-columns: repeat(3,1fr);
+            }
+        }
+
         /*page 05*/
     </style>
 
@@ -243,9 +278,15 @@
     <div id="skillset"></div>
 </section>
 <!--                            page 04-->
-
+<div id="s4d1"></div>
 <section id="section4">
-    <div id="s4d1"></div>
+
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
 </section>
 <!--                            page 05-->
 </body>
