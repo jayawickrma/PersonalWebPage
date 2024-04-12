@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="page 5 finished">
+    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="page 7">
       <change beforePath="$PROJECT_DIR$/portFolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portFolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,35 +68,7 @@
       <workItem from="1712844708934" duration="1338000" />
       <workItem from="1712846917361" duration="6508000" />
       <workItem from="1712857022464" duration="2323000" />
-      <workItem from="1712859404982" duration="6251000" />
-    </task>
-    <task id="LOCAL-00002" summary="firstPage">
-      <created>1711815576017</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1711815576017</updated>
-    </task>
-    <task id="LOCAL-00003" summary="firstPage1">
-      <created>1711816107001</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1711816107001</updated>
-    </task>
-    <task id="LOCAL-00004" summary="firstPage1">
-      <created>1711986494057</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1711986494057</updated>
-    </task>
-    <task id="LOCAL-00005" summary="firstPage">
-      <created>1711991262596</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1711991262596</updated>
+      <workItem from="1712859404982" duration="6549000" />
     </task>
     <task id="LOCAL-00006" summary="second page">
       <created>1711993086846</created>
@@ -413,7 +385,35 @@
       <option name="project" value="LOCAL" />
       <updated>1712905938576</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="page6">
+      <created>1712906084430</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1712906084430</updated>
+    </task>
+    <task id="LOCAL-00052" summary="page6 finished">
+      <created>1712906150255</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1712906150255</updated>
+    </task>
+    <task id="LOCAL-00053" summary="page 7 start">
+      <created>1712906260504</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1712906260504</updated>
+    </task>
+    <task id="LOCAL-00054" summary="page 7">
+      <created>1712906305255</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1712906305255</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,11 +443,14 @@
     <MESSAGE value="page4" />
     <MESSAGE value="page4 done" />
     <MESSAGE value="page4 over" />
-    <MESSAGE value="page6" />
     <MESSAGE value="7" />
     <MESSAGE value="5" />
     <MESSAGE value="5over" />
     <MESSAGE value="page 5 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="page 5 finished" />
+    <MESSAGE value="page6" />
+    <MESSAGE value="page6 finished" />
+    <MESSAGE value="page 7 start" />
+    <MESSAGE value="page 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="page 7" />
   </component>
 </project>
