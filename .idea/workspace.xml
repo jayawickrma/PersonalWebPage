@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="page 7">
-      <change beforePath="$PROJECT_DIR$/portFolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portFolio.html" afterDir="false" />
+    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="finished but to to shomething">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +68,7 @@
       <workItem from="1712844708934" duration="1338000" />
       <workItem from="1712846917361" duration="6508000" />
       <workItem from="1712857022464" duration="2323000" />
-      <workItem from="1712859404982" duration="7661000" />
-    </task>
-    <task id="LOCAL-00014" summary="center">
-      <created>1712854650315</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1712854650315</updated>
+      <workItem from="1712859404982" duration="9269000" />
     </task>
     <task id="LOCAL-00015" summary="text">
       <created>1712855145687</created>
@@ -413,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712907304350</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="finished but to to shomething">
+      <created>1712907532805</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1712907532805</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,6 +451,7 @@
     <MESSAGE value="page6 finished" />
     <MESSAGE value="page 7 start" />
     <MESSAGE value="page 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="page 7" />
+    <MESSAGE value="finished but to to shomething" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished but to to shomething" />
   </component>
 </project>
