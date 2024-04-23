@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="finished but to to shomething">
+    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="mediaQuery">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +71,9 @@
       <workItem from="1712859404982" duration="9269000" />
       <workItem from="1713286146841" duration="803000" />
       <workItem from="1713374915579" duration="984000" />
-    </task>
-    <task id="LOCAL-00016" summary="text">
-      <created>1712855577445</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1712855577445</updated>
+      <workItem from="1713593701715" duration="1520000" />
+      <workItem from="1713608661998" duration="1543000" />
+      <workItem from="1713886427130" duration="100000" />
     </task>
     <task id="LOCAL-00017" summary="skill">
       <created>1712857617042</created>
@@ -415,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713286363576</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="mediaQuery">
+      <created>1713594640294</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1713594640294</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,6 +457,7 @@
     <MESSAGE value="page 7 start" />
     <MESSAGE value="page 7" />
     <MESSAGE value="finished but to to shomething" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished but to to shomething" />
+    <MESSAGE value="mediaQuery" />
+    <option name="LAST_COMMIT_MESSAGE" value="mediaQuery" />
   </component>
 </project>
