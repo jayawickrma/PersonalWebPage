@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="mediaQuery">
+    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="mediaQuery page2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portFolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portFolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +75,9 @@
       <workItem from="1713593701715" duration="1520000" />
       <workItem from="1713608661998" duration="1543000" />
       <workItem from="1713886427130" duration="100000" />
-    </task>
-    <task id="LOCAL-00017" summary="skill">
-      <created>1712857617042</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1712857617042</updated>
+      <workItem from="1713891794662" duration="1279000" />
+      <workItem from="1714062923509" duration="2116000" />
+      <workItem from="1714405815189" duration="222000" />
     </task>
     <task id="LOCAL-00018" summary="skill">
       <created>1712857646531</created>
@@ -418,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713594640294</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="mediaQuery page2">
+      <created>1713892222262</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1713892222262</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,6 +462,7 @@
     <MESSAGE value="page 7" />
     <MESSAGE value="finished but to to shomething" />
     <MESSAGE value="mediaQuery" />
-    <option name="LAST_COMMIT_MESSAGE" value="mediaQuery" />
+    <MESSAGE value="mediaQuery page2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mediaQuery page2" />
   </component>
 </project>
