@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="index" />
+    <list default="true" id="13a4607d-c437-4085-a8cb-926a71b2c0d0" name="Changes" comment="added my pos system to portfolio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +86,8 @@
       <workItem from="1714405815189" duration="222000" />
       <workItem from="1715405294133" duration="200000" />
       <workItem from="1715408417795" duration="4585000" />
-    </task>
-    <task id="LOCAL-00020" summary="page4">
-      <created>1712858312441</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1712858312441</updated>
+      <workItem from="1715534546644" duration="1865000" />
+      <workItem from="1715883476872" duration="702000" />
     </task>
     <task id="LOCAL-00021" summary="page4 done">
       <created>1712859203186</created>
@@ -428,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715449578149</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="added my pos system to portfolio">
+      <created>1715535217886</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1715535217886</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,6 +474,7 @@
     <MESSAGE value="mediaQuery" />
     <MESSAGE value="mediaQuery page2" />
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="added my pos system to portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="added my pos system to portfolio" />
   </component>
 </project>
